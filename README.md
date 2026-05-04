@@ -183,4 +183,3 @@ Nesta etapa o foco é deixar o app modular e visualmente organizado:
 
 ---
 
-Se você quiser, posso também adicionar um diagrama rápido de fluxo MQTT ou instruções de deploy para Android/iOS.
